@@ -134,7 +134,7 @@
                                                                   },
                                                        "1.20.3":  {
                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.3.json.gz",
-                                                                      "sha256":  "30497c215b9aee18e6a3ba91744fa46c26aec3f211e711d5aaecc4265264a64b",
+                                                                      "sha256":  "1cc9d119c28365171aba0d83ac670827e1fcbe19223ba3b939261882babd9034",
                                                                       "manifestSchemaVersion":  1,
                                                                       "eventCount":  133
                                                                   },
