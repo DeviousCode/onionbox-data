@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-28T05:56:23Z",
+    "generated":  "2026-02-28T05:56:29Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -431,7 +431,13 @@
                                                                     "sha256":  "09f745ee6d788867df69115f54ab91c5a4a84fea3777b2e3ef72e4b86551ff10",
                                                                     "manifestSchemaVersion":  1,
                                                                     "eventCount":  395
-                                                                }
+                                                                },
+                                                       "1.21.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.1.json.gz",
+                                                                      "sha256":  "8114cc1883639e921da87b8092001ae2c340b890fd0a5dcc8055ee283f1fd66c",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  398
+                                                                  }
                                                    },
                                         "spigot":  {
                                                        "1.20":  {
