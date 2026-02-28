@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-27T21:28:06Z",
+    "generated":  "2026-02-27T21:29:20Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -119,7 +119,13 @@
                                                                       "sha256":  "90f8331209b937b0712ace20264466fedcaf3e0a544d14920cbd40e4cc800aa0",
                                                                       "manifestSchemaVersion":  1,
                                                                       "eventCount":  145
-                                                                  }
+                                                                  },
+                                                       "1.20":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.json.gz",
+                                                                    "sha256":  "008b0bf4c62c7a7bc303543051dbb48a25c3bef487363dfe5ee49c4cbd498709",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  127
+                                                                }
                                                    },
                                         "neoforge":  {
                                                          "1.21.1":  {
