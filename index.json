@@ -42,7 +42,7 @@
                                                                  },
                                                       "1.20.6":  {
                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.6.json.gz",
-                                                                     "sha256":  "6b6871434f7f85b130808d1adece80ceb480b6c10d04d5365318cab2f68779ef",
+                                                                     "sha256":  "d840c5d6ae94d93104d5c80a8634c10157af8343074a936d6113c2e2962ba854",
                                                                      "manifestSchemaVersion":  1,
                                                                      "eventCount":  396
                                                                  },
