@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-27T22:23:47Z",
+    "generated":  "2026-02-27T22:23:49Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -182,7 +182,7 @@
                                                                   },
                                                        "1.21.5":  {
                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.5.json.gz",
-                                                                      "sha256":  "b3da4ddb9ae9b064b0ae7ad173cd46012327db0b3ee81372fec096e43fb27967",
+                                                                      "sha256":  "b05959fad4e7b27f29196da927c6b302cb08a9172147958964e449f8ee2961c0",
                                                                       "manifestSchemaVersion":  1,
                                                                       "eventCount":  146
                                                                   },
