@@ -1,0 +1,16 @@
+{
+    "schemaVersion":  1,
+    "generated":  "2026-02-27T18:15:20Z",
+    "manifests":  {
+                      "minecraft":  {
+                                        "paper":  {
+                                                      "1.21.1":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.1.json.gz",
+                                                                     "sha256":  "787ef8ba4cfcb1616daddaf8b92da3fa9cbd93f5dffdd2501360c8f53e17de24",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  398
+                                                                 }
+                                                  }
+                                    }
+                  }
+}
