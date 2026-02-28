@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-27T22:23:18Z",
+    "generated":  "2026-02-27T22:23:20Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -232,7 +232,7 @@
                                                                     },
                                                          "1.20.2":  {
                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.20.2.json.gz",
-                                                                        "sha256":  "cbac65337405d1eb00884fe5522e3ce73f79c23991434394b38fd7d9036fd5ae",
+                                                                        "sha256":  "3288f0be5978754e1ec496eb9e0c4451d2706b1142bd5d847b359bb48d7da44d",
                                                                         "manifestSchemaVersion":  1,
                                                                         "eventCount":  126
                                                                     },
