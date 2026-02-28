@@ -268,7 +268,7 @@
                                                                     },
                                                          "1.21.5":  {
                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.5.json.gz",
-                                                                        "sha256":  "a042a75e37b593cb80a42604965a68d4645e9ccbc2f7addd357ad2616d92adc2",
+                                                                        "sha256":  "c163049e12fd86d97f3bad4f152308d1ea28cc403770d24d40fc214e215d4a79",
                                                                         "manifestSchemaVersion":  1,
                                                                         "eventCount":  163
                                                                     },
