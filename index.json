@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-28T05:57:26Z",
+    "generated":  "2026-02-28T05:57:31Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -541,6 +541,12 @@
                                                                       "sha256":  "6a88fd861ebd656e3b0b6fba3fc891a513c83e59ae4d85cf957916db4c7b4eb8",
                                                                       "manifestSchemaVersion":  1,
                                                                       "eventCount":  412
+                                                                  },
+                                                       "1.21.7":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.7.json.gz",
+                                                                      "sha256":  "cddee56fb5434aa7150ce6d232007c1e9d2ffcf004ec2707b28953d421e99035",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  417
                                                                   }
                                                    }
                                     }
