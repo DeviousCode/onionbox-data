@@ -84,7 +84,7 @@
                                                                  },
                                                       "1.21.8":  {
                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.8.json.gz",
-                                                                     "sha256":  "8749cba4db54404551b0300380f1aa28e52de9713737e5551e6199fcef1c0de2",
+                                                                     "sha256":  "739345e6225b3ba47656edfc942842b77259b13d777c622e3f7bdfae21a9bfe0",
                                                                      "manifestSchemaVersion":  1,
                                                                      "eventCount":  419
                                                                  },
@@ -152,7 +152,7 @@
                                                                   },
                                                        "1.20.6":  {
                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.6.json.gz",
-                                                                      "sha256":  "432a458b2c01d3854606c4b586512a4eaf41a9ed0da026de5183c14eadfa8fbf",
+                                                                      "sha256":  "ff8fbc7d5738fe07d185710bd6298eb4d0862eec95c258387b34295d72789615",
                                                                       "manifestSchemaVersion":  1,
                                                                       "eventCount":  135
                                                                   },
@@ -274,7 +274,7 @@
                                                                     },
                                                          "1.21.8":  {
                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.8.json.gz",
-                                                                        "sha256":  "30515140543710d0708592fb4c8326d977a193414ee41d42e3d410e61adaf9ff",
+                                                                        "sha256":  "a9a5f9181f02b37c1cad420cccfcf5f66a69dee263dab801863e85e6940b2c14",
                                                                         "manifestSchemaVersion":  1,
                                                                         "eventCount":  164
                                                                     },
