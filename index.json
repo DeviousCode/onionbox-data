@@ -360,7 +360,7 @@
                                                                  },
                                                       "1.21.6":  {
                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.6.json.gz",
-                                                                     "sha256":  "dbad8a115506124800915c5e7094053aeaea37aa4edb42f0da7915df90542e6b",
+                                                                     "sha256":  "07bca799500014cf8868b0aea18ac60d2253037f2b7e733934ad133fc9d6ea40",
                                                                      "manifestSchemaVersion":  1,
                                                                      "eventCount":  258
                                                                  },
