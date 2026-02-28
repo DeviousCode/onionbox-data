@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-27T21:27:57Z",
+    "generated":  "2026-02-27T21:27:59Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -201,6 +201,12 @@
                                                                      "sha256":  "67b19eeebcb326735831615a43a622b542ce98080005e3f2ad8ea47d7b2d4476",
                                                                      "manifestSchemaVersion":  1,
                                                                      "eventCount":  129
+                                                                 },
+                                                      "1.21.6":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.6.json.gz",
+                                                                     "sha256":  "dbad8a115506124800915c5e7094053aeaea37aa4edb42f0da7915df90542e6b",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  258
                                                                  }
                                                   }
                                     }
