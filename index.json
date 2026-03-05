@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-02-28T16:18:22Z",
+    "generated":  "2026-03-04T22:06:31Z",
     "manifests":  {
                       "minecraft":  {
                                         "paper":  {
@@ -598,5 +598,269 @@
                                                                    }
                                                    }
                                     }
-                  }
+                  },
+    "sqlite":  {
+                   "minecraft":  {
+                                     "fabric":  {
+                                                    "1.20-13605645":  {
+                                                                          "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20-13605645.sqlite.gz",
+                                                                          "sha256":  "5e278ee0f48400a68352a709e6837eb3c8d75af82a2be0eb999bab34c2090305"
+                                                                      },
+                                                    "1.20.1-37e9f0e3":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.1-37e9f0e3.sqlite.gz",
+                                                                            "sha256":  "fc91986d1e4f44716e1b54797a25f34a7d2c0f5b06754e04c00bcbede13b2d17"
+                                                                        },
+                                                    "1.20.2-bc092647":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.2-bc092647.sqlite.gz",
+                                                                            "sha256":  "36a33bfd07857b2bd6fc03b1206649491cdf482ac078ace24fee27b7ae44691b"
+                                                                        },
+                                                    "1.20.3-50e16807":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.3-50e16807.sqlite.gz",
+                                                                            "sha256":  "0776cbe2da632ca84b627c7febca5a5a135decfafffbfb8bbaf76151b07de074"
+                                                                        },
+                                                    "1.20.4-4defd88e":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.4-4defd88e.sqlite.gz",
+                                                                            "sha256":  "4153c422138f77780c25cc95b4b09e9c1bf6a1a94c957c93c831a219b17c8d64"
+                                                                        },
+                                                    "1.20.5-0cfad566":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.5-0cfad566.sqlite.gz",
+                                                                            "sha256":  "679fff8ffe12f42d501faa8cef86c9feafd123f5f826e15afc960739a03bb119"
+                                                                        },
+                                                    "1.20.6-26c32c49":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.20.6-26c32c49.sqlite.gz",
+                                                                            "sha256":  "8f44dc5a1f8c91e40f76344195eb5779adbf1ece6714fd2a2afcda050e248097"
+                                                                        },
+                                                    "1.21-7e8569bc":  {
+                                                                          "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21-7e8569bc.sqlite.gz",
+                                                                          "sha256":  "d93495f9b1edaddf17b748aeeb8808e31ef1e019383ab680fdf282534450b1d4"
+                                                                      },
+                                                    "1.21.1-b190ed1e":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.1-b190ed1e.sqlite.gz",
+                                                                            "sha256":  "22d757436749568983428832e6b1a9fdb90e56dc77df4808716554b213cea449"
+                                                                        },
+                                                    "1.21.10-65654bf6":  {
+                                                                             "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.10-65654bf6.sqlite.gz",
+                                                                             "sha256":  "6f6395b8d9d2e7080039bea86916d459d62209b863f1d89f41d630606a4b7271"
+                                                                         },
+                                                    "1.21.11-81260b4b":  {
+                                                                             "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.11-81260b4b.sqlite.gz",
+                                                                             "sha256":  "1c857d6db68c24ed2068fb60734ccb95d53ea30d0cd71d90e7a2f7680353954c"
+                                                                         },
+                                                    "1.21.2-478bad06":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.2-478bad06.sqlite.gz",
+                                                                            "sha256":  "c626caa06d92dbea888d357cec588b52b1033fb0672662828ac8e40af4002da6"
+                                                                        },
+                                                    "1.21.3-c3a97cdd":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.3-c3a97cdd.sqlite.gz",
+                                                                            "sha256":  "06dcdfd36a54663dc3e9db1ccec650a83b311d32524f706a828409f19d94f956"
+                                                                        },
+                                                    "1.21.4-70fff4d0":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.4-70fff4d0.sqlite.gz",
+                                                                            "sha256":  "1bc9bd584499c5a0e7a658d90acd780db63804e2f58323d12158afad5e75f3dd"
+                                                                        },
+                                                    "1.21.5-f50bad7b":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.5-f50bad7b.sqlite.gz",
+                                                                            "sha256":  "c3d64921a9cbdce830364c8398a13ed853ac681b261ea28c76141676ce914f86"
+                                                                        },
+                                                    "1.21.6-e1754279":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.6-e1754279.sqlite.gz",
+                                                                            "sha256":  "9a1b6e194c036373f81d0bae0128093a8fd32922c28b86dee5bbcad11fa16098"
+                                                                        },
+                                                    "1.21.7-5b9393b5":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.7-5b9393b5.sqlite.gz",
+                                                                            "sha256":  "7fdf582bd10ed10b3edc7e86e50bbfd4f3605fe46c879276222703738a6f4b97"
+                                                                        },
+                                                    "1.21.8-609dfd18":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.8-609dfd18.sqlite.gz",
+                                                                            "sha256":  "4b2a7340ec258b8cfc6e0b39fa9d5aa946efe22c7483b60a157c14ea12de5ffc"
+                                                                        },
+                                                    "1.21.9-531d5ad3":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/fabric-1.21.9-531d5ad3.sqlite.gz",
+                                                                            "sha256":  "d911355a81bf0150eb9ed4bff8b9d75d8f180c95166de1b6321df1ef3bb86d86"
+                                                                        }
+                                                },
+                                     "forge":  {
+                                                   "1.20-8990eb3e":  {
+                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20-8990eb3e.sqlite.gz",
+                                                                         "sha256":  "6a34d5cc04b2d2b1020521529f773e06bed489c136f2c97594fe2afdd69b28e8"
+                                                                     },
+                                                   "1.20.1-f83e705d":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20.1-f83e705d.sqlite.gz",
+                                                                           "sha256":  "5e0edc1425b29c257ca8b15eb0f2f21b7550751e49c7d1efddcf14a0c64dbd7e"
+                                                                       },
+                                                   "1.20.2-fa8a6d03":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20.2-fa8a6d03.sqlite.gz",
+                                                                           "sha256":  "6b0fa88c09e1d7348b30ff2d3ed2cd66c4ef524c4a0e04aa06ae6f58def8b4a9"
+                                                                       },
+                                                   "1.20.3-09f98070":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20.3-09f98070.sqlite.gz",
+                                                                           "sha256":  "da224d3157833202406c26a71b398d74af238d78aee339c6fe3db2e88f2a0b87"
+                                                                       },
+                                                   "1.20.4-79dc1b01":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20.4-79dc1b01.sqlite.gz",
+                                                                           "sha256":  "20f15920e4709bcba65168089af902bdd6fa8ab3bf171d8ec0c22153063b1c37"
+                                                                       },
+                                                   "1.20.6-e18e9860":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.20.6-e18e9860.sqlite.gz",
+                                                                           "sha256":  "98b6b9e68fcf9ec4918d9e9dad5827285b5b268e66ee000b6a1573137809a0ad"
+                                                                       },
+                                                   "1.21-84f7823d":  {
+                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21-84f7823d.sqlite.gz",
+                                                                         "sha256":  "2fa7d05edbf6605064bfbcbf8c368e3aef5d44d383803703a7788f96f4884b45"
+                                                                     },
+                                                   "1.21.1-831544ff":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.1-831544ff.sqlite.gz",
+                                                                           "sha256":  "f59866f4529e0370b121626f2eafb72e7a2516812249d32a28d683e31775d8e0"
+                                                                       },
+                                                   "1.21.10-3e43c13f":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.10-3e43c13f.sqlite.gz",
+                                                                            "sha256":  "2811a2168e632503425f7bc4eb29e94d042c470ea89ca0aca7d9e030954ce2df"
+                                                                        },
+                                                   "1.21.11-dcb1de1e":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.11-dcb1de1e.sqlite.gz",
+                                                                            "sha256":  "5421760cf243d9a3b47123a94989dcb4ef57f83a6e35c4ca6d1c75d8ffdc0987"
+                                                                        },
+                                                   "1.21.3-394e4ca8":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.3-394e4ca8.sqlite.gz",
+                                                                           "sha256":  "e257fa75cca7bd7b6db57fde8ebe9ed71b0e2f4f2bbd2d8e9949411e5a0eb97c"
+                                                                       },
+                                                   "1.21.4-fd065a4e":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.4-fd065a4e.sqlite.gz",
+                                                                           "sha256":  "e4658ad5df4c87106dc86a0b43da3e7f3b75ebeceb0d8b14fd49765a3b2ab8ff"
+                                                                       },
+                                                   "1.21.5-ae42469b":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.5-ae42469b.sqlite.gz",
+                                                                           "sha256":  "896a5a9918d39b2bf6925f6586b6f7fdfa1194f6969fc7241b078abe5d2a6ebb"
+                                                                       },
+                                                   "1.21.6-e954029d":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.6-e954029d.sqlite.gz",
+                                                                           "sha256":  "33063846a17c2a09156368d0107cafe6ae4e93139229c08e86de9d7eea491902"
+                                                                       },
+                                                   "1.21.7-fe8211fe":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.7-fe8211fe.sqlite.gz",
+                                                                           "sha256":  "92e8178f04dc9bb7038c5d12d8831196207b834650cdd504145564bd3e62c54e"
+                                                                       },
+                                                   "1.21.8-07350046":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.8-07350046.sqlite.gz",
+                                                                           "sha256":  "0b501241ae3e0f54549e9012fabbad2c2b5253c1387c5271dee647d1f265f70e"
+                                                                       },
+                                                   "1.21.9-7387bf08":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/forge-1.21.9-7387bf08.sqlite.gz",
+                                                                           "sha256":  "4c8933e07cdc0e66e4d2d477f7c97eaa3cb42e808d17bb1a8a9b6901a0457296"
+                                                                       }
+                                               },
+                                     "neoforge":  {
+                                                      "1.20.2-90528dd1":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.20.2-90528dd1.sqlite.gz",
+                                                                              "sha256":  "4d06fb5f7cf2d7167b5f8f1df9753ed96b4dd8b258c066c78216a95e3d667969"
+                                                                          },
+                                                      "1.20.4-198df8b2":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.20.4-198df8b2.sqlite.gz",
+                                                                              "sha256":  "ee952afdba59baf344e70493ee794a8a4880ea87f528ff1a92173bcbde263d2d"
+                                                                          },
+                                                      "1.20.6-73e1367e":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.20.6-73e1367e.sqlite.gz",
+                                                                              "sha256":  "68c78836c805a5ba7dc4b4ba06bdb3cec0bbce787f157d70ae3fd9db1569d22c"
+                                                                          },
+                                                      "1.21-b5beeac9":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21-b5beeac9.sqlite.gz",
+                                                                            "sha256":  "20e1ec5f47c870a59b766398f842f9d53dc295d77c649205039b46103e476a6d"
+                                                                        },
+                                                      "1.21.1-814983ff":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.1-814983ff.sqlite.gz",
+                                                                              "sha256":  "1ac3a0812e6246131728d5a3f86a8211076a603f06b4e3b0dc8848be0d7662ab"
+                                                                          },
+                                                      "1.21.10-d52d8226":  {
+                                                                               "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.10-d52d8226.sqlite.gz",
+                                                                               "sha256":  "d0dd5aad21732653c45727f60b043e443943378f7f11a0694dc6df583ea94ab0"
+                                                                           },
+                                                      "1.21.3-a2128bb2":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.3-a2128bb2.sqlite.gz",
+                                                                              "sha256":  "f8f6eb01f3c7c5847b412c0186c5bf383ffdbb83815803a1e1d46908e5f0f5a3"
+                                                                          },
+                                                      "1.21.4-fd610761":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.4-fd610761.sqlite.gz",
+                                                                              "sha256":  "8686c7c8e6d5d770c30317173f96193b45d7565f24820a5aa78e81aa2a681ce2"
+                                                                          },
+                                                      "1.21.5-d3a1cd84":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.5-d3a1cd84.sqlite.gz",
+                                                                              "sha256":  "b5602cf9c58c92a8d446b87e8e02919e7b74b1c8143c8dd8bebe8a8ea47fbb1c"
+                                                                          },
+                                                      "1.21.8-67521895":  {
+                                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/neoforge-1.21.8-67521895.sqlite.gz",
+                                                                              "sha256":  "984d752e07d47a1ab90fe9176c229f03fbf15b9390dc23cd812463b1d81975c3"
+                                                                          }
+                                                  },
+                                     "paper":  {
+                                                   "1.20-24c6bdea":  {
+                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20-24c6bdea.sqlite.gz",
+                                                                         "sha256":  "61b9f1325defbc59bd22e25d571292327bc0552c7c245a5e634030ca000ebd1c"
+                                                                     },
+                                                   "1.20.1-5bd121fb":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20.1-5bd121fb.sqlite.gz",
+                                                                           "sha256":  "41792e0f7a5951a0248f94012e78dc06dc28584d4495c488bf6a36b63c4c266d"
+                                                                       },
+                                                   "1.20.2-e8e387b1":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20.2-e8e387b1.sqlite.gz",
+                                                                           "sha256":  "a226295f4b1c5dd6d17d88a13cb763f4c2cea3cf1e4ed1b4c73c3bca0383b526"
+                                                                       },
+                                                   "1.20.4-459ca6ef":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20.4-459ca6ef.sqlite.gz",
+                                                                           "sha256":  "5f7f186d4b0d14672d16d5a58d5e06a97e92ad42cdb1695e6040b9610fccedbc"
+                                                                       },
+                                                   "1.20.5-23a31e83":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20.5-23a31e83.sqlite.gz",
+                                                                           "sha256":  "176ed6dcec3021831f7f8033368341ba46413188241efbff762e654da88e94de"
+                                                                       },
+                                                   "1.20.6-0f3d1fe7":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.20.6-0f3d1fe7.sqlite.gz",
+                                                                           "sha256":  "1170793b9a6665acd64a4e8f09c21f33e697132c5c22484dd12eb7363a6295d9"
+                                                                       },
+                                                   "1.21-a77e6d6a":  {
+                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21-a77e6d6a.sqlite.gz",
+                                                                         "sha256":  "67fa20c293db6c212a4bc8ce14ab729850172991038fe83059c7b7db57563396"
+                                                                     },
+                                                   "1.21.1-76211a68":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.1-76211a68.sqlite.gz",
+                                                                           "sha256":  "ae2c27299235556a8a80338124b504c50fcb3d9a7cf38ed98a0ccff9b74de4f5"
+                                                                       },
+                                                   "1.21.10-6257fe22":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.10-6257fe22.sqlite.gz",
+                                                                            "sha256":  "603fc6685a37c91a8e7a4472bc84833947b53a5c06110ae276e7e0f1ee2b2cd6"
+                                                                        },
+                                                   "1.21.11-f158f156":  {
+                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.11-f158f156.sqlite.gz",
+                                                                            "sha256":  "c86153db4b7420947cacb8ed8d1908fe1ac2a0f6fed1e1d37e6c77b376767925"
+                                                                        },
+                                                   "1.21.3-2e2920c8":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.3-2e2920c8.sqlite.gz",
+                                                                           "sha256":  "e4af3035481d8f8dd023661cfa6f804f22e0fabbbc4c15c20e3fa850e3a6b3dc"
+                                                                       },
+                                                   "1.21.4-81b3aae5":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.4-81b3aae5.sqlite.gz",
+                                                                           "sha256":  "6df6b7a1613c7b9d8af17b332d1fa8dc71920182c2d2f54c1b7c5fce19d5318a"
+                                                                       },
+                                                   "1.21.5-af20b2c5":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.5-af20b2c5.sqlite.gz",
+                                                                           "sha256":  "483d4d533d994cfac2a7416d4bdcac08188c0f9335b4e749b82b433208e06120"
+                                                                       },
+                                                   "1.21.6-97949947":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.6-97949947.sqlite.gz",
+                                                                           "sha256":  "bd1fb6cfc13a415a6db34c5331951620a0ff120424d25eb983863abab2c5b5cb"
+                                                                       },
+                                                   "1.21.7-72f88937":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.7-72f88937.sqlite.gz",
+                                                                           "sha256":  "925020e80bc6fa9de6c42ecc7b4fa7e712858c0f00b938708f3dec05c399a7ba"
+                                                                       },
+                                                   "1.21.8-f9ecfe79":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.8-f9ecfe79.sqlite.gz",
+                                                                           "sha256":  "d6bfc1066981b06e3fbd83b61b76fe7fe9011e3d029f55fde7d28a48fe637a98"
+                                                                       },
+                                                   "1.21.9-8f41f760":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.9-8f41f760.sqlite.gz",
+                                                                           "sha256":  "1bb698a550463a82371e8e7e8b3c006eb006d1c258d2daea4b979a4afbd88070"
+                                                                       }
+                                               }
+                                 }
+               }
 }
