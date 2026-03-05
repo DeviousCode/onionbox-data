@@ -1,6 +1,604 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-03-04T22:14:42Z",
+    "generated":  "2026-03-04T22:06:31Z",
+    "manifests":  {
+                      "minecraft":  {
+                                        "paper":  {
+                                                      "1.21.1":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.1.json.gz",
+                                                                     "sha256":  "348a52b44660d49d02fb06c6bf9166b596060c0213ee7f249e9e301eb5406df8",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  398
+                                                                 },
+                                                      "1.20":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.json.gz",
+                                                                   "sha256":  "e2ec8ea08923dd2b002faccecb0d06c6b2ecaf392ba40437cf0f2def2c1e6632",
+                                                                   "manifestSchemaVersion":  1,
+                                                                   "eventCount":  375
+                                                               },
+                                                      "1.20.1":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.1.json.gz",
+                                                                     "sha256":  "1183022543bd05b076743c2ef5c9a6a277bc74ffa495f6c1131319f05083e2ca",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  382
+                                                                 },
+                                                      "1.20.2":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.2.json.gz",
+                                                                     "sha256":  "2a0a1f424fb7d200d0d9c693db7f1518c73495443595581f808aeac42df57613",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  384
+                                                                 },
+                                                      "1.20.4":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.4.json.gz",
+                                                                     "sha256":  "f3ed61c0425f5bd8d6f749a1451fdf38dc88c7c1cc35f3552effb63d77d7ae32",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  392
+                                                                 },
+                                                      "1.20.5":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.5.json.gz",
+                                                                     "sha256":  "9dfbf6b4f626efaf7ce326458d89d1fd631b4b0aafd66e6a9112d7e6dde75852",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  392
+                                                                 },
+                                                      "1.20.6":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.6.json.gz",
+                                                                     "sha256":  "d840c5d6ae94d93104d5c80a8634c10157af8343074a936d6113c2e2962ba854",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  396
+                                                                 },
+                                                      "1.21":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.json.gz",
+                                                                   "sha256":  "0accb673b5a4d8bd65150fe0acbf2b299c21b3cff9215f2f13dc84902fd33414",
+                                                                   "manifestSchemaVersion":  1,
+                                                                   "eventCount":  395
+                                                               },
+                                                      "1.21.3":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.3.json.gz",
+                                                                     "sha256":  "fa8e6c0e9311b551924b5780cb384b4954d439cb1b3a126d629eccf4aa021422",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  400
+                                                                 },
+                                                      "1.21.4":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.4.json.gz",
+                                                                     "sha256":  "8175ca9d0e6a7ffd4332ba93235f1d26d9c351b4a0c05dab78a941a3a632c190",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  405
+                                                                 },
+                                                      "1.21.5":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.5.json.gz",
+                                                                     "sha256":  "b615ba730489f49e87c79f12b8b58b390b1cb774c2c65bb239739c7246e19486",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  412
+                                                                 },
+                                                      "1.21.6":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.6.json.gz",
+                                                                     "sha256":  "ab21454baf7db9ccadfd6170e37ec64ce40fee15907443adc56aa82154a138c3",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  412
+                                                                 },
+                                                      "1.21.7":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.7.json.gz",
+                                                                     "sha256":  "e5577ce872fe4710a44d79d330d8ba71d1c62fddd46e0d76ddfea7bfa9277150",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  417
+                                                                 },
+                                                      "1.21.8":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.8.json.gz",
+                                                                     "sha256":  "739345e6225b3ba47656edfc942842b77259b13d777c622e3f7bdfae21a9bfe0",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  419
+                                                                 },
+                                                      "1.21.9":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.9.json.gz",
+                                                                     "sha256":  "924cbee06bec9d9af3612732693bb991f58a43451e2c49c2b6d847847b0ea155",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  421
+                                                                 },
+                                                      "1.21.10":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.10.json.gz",
+                                                                      "sha256":  "4bf30b5e6fb8ebba59ac143941719dd59974b66b6ed41e80ed18376d850a4a37",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  421
+                                                                  },
+                                                      "1.21.11":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.11.json.gz",
+                                                                      "sha256":  "587281107b1a9aedee4b03c8017a895b93bd67491c224182aa885371c1b47b37",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  422
+                                                                  }
+                                                  },
+                                        "fabric":  {
+                                                       "1.20.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.1.json.gz",
+                                                                      "sha256":  "c0bbed453ad4c0e2d2f662b2d8e8703e89f9ddbaea7aae970bab1906abad5f17",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  129
+                                                                  },
+                                                       "1.21.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.1.json.gz",
+                                                                      "sha256":  "8c2c3c5efed861bdc2954c14af39ce75363b3d4c0689b762e5243af803105063",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  145
+                                                                  },
+                                                       "1.20":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.json.gz",
+                                                                    "sha256":  "a3bb4cb439e781062a480ceaf539c1a8d63f4dabf7bdcce600e2de39aa95c7e8",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  127
+                                                                },
+                                                       "1.20.2":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.2.json.gz",
+                                                                      "sha256":  "97507c331400483ad4758fb0fbecec704b8c23188b70f6e0f6b3f5b5dc11a93a",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  133
+                                                                  },
+                                                       "1.20.3":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.3.json.gz",
+                                                                      "sha256":  "1cc9d119c28365171aba0d83ac670827e1fcbe19223ba3b939261882babd9034",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  133
+                                                                  },
+                                                       "1.20.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.4.json.gz",
+                                                                      "sha256":  "38d93aa555c87a21201fe2d3857b408dcd068d541c243a708fcac23ed4ea8a5b",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  138
+                                                                  },
+                                                       "1.20.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.5.json.gz",
+                                                                      "sha256":  "352a00866b0c4f09c96352e8ca4b8e32cbc74b184312c7577daf1afc4463d353",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  132
+                                                                  },
+                                                       "1.20.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.6.json.gz",
+                                                                      "sha256":  "432a458b2c01d3854606c4b586512a4eaf41a9ed0da026de5183c14eadfa8fbf",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  135
+                                                                  },
+                                                       "1.21":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.json.gz",
+                                                                    "sha256":  "07becd20b2486d1369b8df9b07b01591d1f263ea84635c0da971d39b918c79a7",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  138
+                                                                },
+                                                       "1.21.2":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.2.json.gz",
+                                                                      "sha256":  "f59698c74740e2e69984268fb069c9d2123af5b1bd23f3a33be7c4afbddfc8c5",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  142
+                                                                  },
+                                                       "1.21.3":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.3.json.gz",
+                                                                      "sha256":  "c84871b1081f6c1ee9444910d94d0e2e2c3a85cb143a81da29005e63e45eb207",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  144
+                                                                  },
+                                                       "1.21.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.4.json.gz",
+                                                                      "sha256":  "93f8f9cbf9b83223b6809603fffa81411712d3af39d190c60a48d8844ee56662",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  143
+                                                                  },
+                                                       "1.21.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.5.json.gz",
+                                                                      "sha256":  "b05959fad4e7b27f29196da927c6b302cb08a9172147958964e449f8ee2961c0",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  146
+                                                                  },
+                                                       "1.21.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.6.json.gz",
+                                                                      "sha256":  "ad4e0b14b32c34639bcd63c0a8e3c78478774307ec85eb624302408100a276d9",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  146
+                                                                  },
+                                                       "1.21.7":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.7.json.gz",
+                                                                      "sha256":  "9283e49ec20ca69a1135de41a40af5437c0f06be2559b10d4cdeb3ab846056fa",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  146
+                                                                  },
+                                                       "1.21.8":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.8.json.gz",
+                                                                      "sha256":  "8e9c07d81292cb0dac5bf6a0a50c846edde3d119311c0b0420aace39954c1e15",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  146
+                                                                  },
+                                                       "1.21.9":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.9.json.gz",
+                                                                      "sha256":  "b9fcd06725b2ddf06893929ca0c490d8d43fc26ec8b996a398f3f20ad5253a51",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  146
+                                                                  },
+                                                       "1.21.10":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.10.json.gz",
+                                                                       "sha256":  "533e7b7c550e173ee62aa02ec9d77933af39065d921f6973cb53d7f0daa405dd",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  146
+                                                                   },
+                                                       "1.21.11":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.21.11.json.gz",
+                                                                       "sha256":  "ee3df229ab6144252c92d67a08f955585da3a0a58387f973b6aa9ff62b12a99b",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  154
+                                                                   }
+                                                   },
+                                        "neoforge":  {
+                                                         "1.21.1":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.1.json.gz",
+                                                                        "sha256":  "986713cc14b5a76d7478a951d8b67486030e9859b30d751d5604b5260faf9b1d",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  150
+                                                                    },
+                                                         "1.20.2":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.20.2.json.gz",
+                                                                        "sha256":  "3288f0be5978754e1ec496eb9e0c4451d2706b1142bd5d847b359bb48d7da44d",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  126
+                                                                    },
+                                                         "1.20.4":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.20.4.json.gz",
+                                                                        "sha256":  "fc5ca7a3c10326ca73f43cf62f83e71dfaf08b969150b04e0c68039fe381233f",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  134
+                                                                    },
+                                                         "1.20.6":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.20.6.json.gz",
+                                                                        "sha256":  "b66197b0cfa051b22897a52064b84e6fbc6c16211d613af495d86d14b91c52a0",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  139
+                                                                    },
+                                                         "1.21":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.json.gz",
+                                                                      "sha256":  "968dbdffb3491fabecd717dc67e42a41d0ff977701983dd8d46dd16917764f0e",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  144
+                                                                  },
+                                                         "1.21.3":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.3.json.gz",
+                                                                        "sha256":  "2ff215e64cb6216d779c06075f261a544599d70359167704eb78c81066c611cf",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  148
+                                                                    },
+                                                         "1.21.4":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.4.json.gz",
+                                                                        "sha256":  "8297ea8b98d859812c439e2fafcb21b192e89985bdd6b5ade297939340a365f2",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  157
+                                                                    },
+                                                         "1.21.5":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.5.json.gz",
+                                                                        "sha256":  "c163049e12fd86d97f3bad4f152308d1ea28cc403770d24d40fc214e215d4a79",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  163
+                                                                    },
+                                                         "1.21.8":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.8.json.gz",
+                                                                        "sha256":  "a9a5f9181f02b37c1cad420cccfcf5f66a69dee263dab801863e85e6940b2c14",
+                                                                        "manifestSchemaVersion":  1,
+                                                                        "eventCount":  164
+                                                                    },
+                                                         "1.21.10":  {
+                                                                         "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.10.json.gz",
+                                                                         "sha256":  "278b3d15409b75aa3799779af08251b45b76678c4e00f911cf07333630145721",
+                                                                         "manifestSchemaVersion":  1,
+                                                                         "eventCount":  167
+                                                                     }
+                                                     },
+                                        "forge":  {
+                                                      "1.20.1":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.1.json.gz",
+                                                                     "sha256":  "9b2174feb286f4fedffd31c832d6de743f114326f4ed4dc1f0e8c91c40dcbb12",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  147
+                                                                 },
+                                                      "1.21.1":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.1.json.gz",
+                                                                     "sha256":  "57ab44c190693d17d77d92cb3485f308c5b4ccd34b6405265254718c424776da",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  153
+                                                                 },
+                                                      "1.21.11":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.11.json.gz",
+                                                                      "sha256":  "387ab30d113a8b879ce78dcb6a3e6d6beac9e5948d152d33e39e3b5e3c469182",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  194
+                                                                  },
+                                                      "1.20":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.json.gz",
+                                                                   "sha256":  "74b37d2328f0eb834540a9cd801c8be69a380fd2871fa4ed0f2c02c41200ed3e",
+                                                                   "manifestSchemaVersion":  1,
+                                                                   "eventCount":  141
+                                                               },
+                                                      "1.20.2":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.2.json.gz",
+                                                                     "sha256":  "e17b88ab4ea3e7e31f82c98c43bfad528c8ac641490a7db5a7d142c9f1e3adfa",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  150
+                                                                 },
+                                                      "1.20.3":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.3.json.gz",
+                                                                     "sha256":  "ad6eabcc8f7099264ece55e781166746ecea27e7eebca566f2cfee0952e616d8",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  151
+                                                                 },
+                                                      "1.20.4":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.4.json.gz",
+                                                                     "sha256":  "1d8ea1047e596d672386111d00c434327e6c017d249163cd2949d7d3c03665e8",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  151
+                                                                 },
+                                                      "1.20.6":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.6.json.gz",
+                                                                     "sha256":  "06ca25a9ecd59a2b74a6621a1cd72606b091359bb6002693501ab88f174e9879",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  152
+                                                                 },
+                                                      "1.21":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.json.gz",
+                                                                   "sha256":  "8cacdc83224ba8daeca641ca4c6bcb501cd63fa56b16f1cef44f89d772d1b306",
+                                                                   "manifestSchemaVersion":  1,
+                                                                   "eventCount":  151
+                                                               },
+                                                      "1.21.3":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.3.json.gz",
+                                                                     "sha256":  "f1ae305fe8187489c6b16c959fe32ab496fd64a3cd3b4e7c896b9bac2f1eab05",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  149
+                                                                 },
+                                                      "1.21.4":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.4.json.gz",
+                                                                     "sha256":  "5388be7092e751e972b7a88e58d2566ac979be04158d969c4dc56a1ee6653d38",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  151
+                                                                 },
+                                                      "1.21.5":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.5.json.gz",
+                                                                     "sha256":  "351f5eab854bab5bf48fced4b870813584c8301015fc509644ba413821f64fd0",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  129
+                                                                 },
+                                                      "1.21.6":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.6.json.gz",
+                                                                     "sha256":  "07bca799500014cf8868b0aea18ac60d2253037f2b7e733934ad133fc9d6ea40",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  258
+                                                                 },
+                                                      "1.21.7":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.7.json.gz",
+                                                                     "sha256":  "7d1e3e4b1c508ce323cc413f6ef9c4c4fa57217c3f268408c59ace75cea6c5a4",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  251
+                                                                 },
+                                                      "1.21.8":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.8.json.gz",
+                                                                     "sha256":  "eb636d2861252973ba21e108937d4fcfcc49d5b712c7d3d9ac0607056f7d4495",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  252
+                                                                 },
+                                                      "1.21.9":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.9.json.gz",
+                                                                     "sha256":  "3921ad9090414a0ab43aa523c2b4cb95be8a87a9ee5577c909432c153360395f",
+                                                                     "manifestSchemaVersion":  1,
+                                                                     "eventCount":  230
+                                                                 },
+                                                      "1.21.10":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.10.json.gz",
+                                                                      "sha256":  "96890aadcea2be39ebec537fe2f7daef9a5cbce3cb5a66deedfb1bb30a11dc6a",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  228
+                                                                  }
+                                                  },
+                                        "bukkit":  {
+                                                       "1.20":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.json.gz",
+                                                                    "sha256":  "3ec78b0ca1597bbd491720441be1bd7ccab292c21933dcdd21c5da5769b4f7d6",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  375
+                                                                },
+                                                       "1.20.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.1.json.gz",
+                                                                      "sha256":  "161774b21f7af92b5cd6fd2f26d113614b23940d66144f0b90b77423c04a2f40",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  382
+                                                                  },
+                                                       "1.20.2":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.2.json.gz",
+                                                                      "sha256":  "4864e3db1dcac7ade9c80f2b626fb6b946cb921da6987288e6c5da96af89127c",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  384
+                                                                  },
+                                                       "1.20.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.4.json.gz",
+                                                                      "sha256":  "8737a15409a129e5369daee0e5540af97dd3aed3e3ff52fcb805a56362e07686",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  392
+                                                                  },
+                                                       "1.20.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.5.json.gz",
+                                                                      "sha256":  "3003299eb5f04f899593aa046e18eb5f4fa74c992bb10a67ec313dcda472f08e",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  392
+                                                                  },
+                                                       "1.20.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.20.6.json.gz",
+                                                                      "sha256":  "891ad2ca232b45348a18b64ebbf62ec8c9f43daa624ef702ac37648db91f01f8",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  396
+                                                                  },
+                                                       "1.21":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.json.gz",
+                                                                    "sha256":  "09f745ee6d788867df69115f54ab91c5a4a84fea3777b2e3ef72e4b86551ff10",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  395
+                                                                },
+                                                       "1.21.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.1.json.gz",
+                                                                      "sha256":  "8114cc1883639e921da87b8092001ae2c340b890fd0a5dcc8055ee283f1fd66c",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  398
+                                                                  },
+                                                       "1.21.3":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.3.json.gz",
+                                                                      "sha256":  "4230b9f622b7291063f5968740c140e4684ea44e273192c5c83c31940cfd494b",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  400
+                                                                  },
+                                                       "1.21.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.4.json.gz",
+                                                                      "sha256":  "935f3a0987dc84dddba8c2d7b628a26fe8c0e29883af38fca892da2ef30287fd",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  405
+                                                                  },
+                                                       "1.21.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.5.json.gz",
+                                                                      "sha256":  "88eb54673b46cdbdbaf8b475a299711e936599dd7892cf46571c861ea200427f",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  412
+                                                                  },
+                                                       "1.21.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.6.json.gz",
+                                                                      "sha256":  "6a95fc694ef8f03b7bf7458e4921a18be5151196a8d3a0dc415506068458de7e",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  412
+                                                                  },
+                                                       "1.21.7":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.7.json.gz",
+                                                                      "sha256":  "f6a001e997ac36d62c60ff500ea536c1a2d8a6b273c63e395a03bbc876b94df3",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  417
+                                                                  },
+                                                       "1.21.8":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.8.json.gz",
+                                                                      "sha256":  "d867e74d94d53cf696a414682469ecdeadbe035af7f7043d4218b5771fbf4307",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  419
+                                                                  },
+                                                       "1.21.9":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.9.json.gz",
+                                                                      "sha256":  "f31292208850bee1702fda9d024aa5279c3ff8cf23dd4724fd982633cceaecd2",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  421
+                                                                  },
+                                                       "1.21.10":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.10.json.gz",
+                                                                       "sha256":  "eecc641291929b5643be8dc89e48a7b1768fc2d0757f9a9afdd10a2560d1d28c",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  421
+                                                                   },
+                                                       "1.21.11":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/bukkit-1.21.11.json.gz",
+                                                                       "sha256":  "e84da2ce01e8de1b63b284eaf802e47ecb5a1fc52242b7477d57c181f9591e68",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  422
+                                                                   }
+                                                   },
+                                        "spigot":  {
+                                                       "1.20":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.json.gz",
+                                                                    "sha256":  "ab05e2dc967024728cd01594f221ad35092c7a3898219aef09f88e415883e643",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  375
+                                                                },
+                                                       "1.20.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.1.json.gz",
+                                                                      "sha256":  "3ec2f3a2839b861e18302d6ac347882cfced3c1790ec9a56c428c0e6d69358c2",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  382
+                                                                  },
+                                                       "1.20.2":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.2.json.gz",
+                                                                      "sha256":  "601681b5e297abb7002091527643c83bd296c4ec24d8a5b277902aa6fd5ef73e",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  384
+                                                                  },
+                                                       "1.20.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.4.json.gz",
+                                                                      "sha256":  "c8b429d37c4b86033056f8f432e83cdfa90bb72be6d209b3bcfab4f73107aedf",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  392
+                                                                  },
+                                                       "1.20.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.5.json.gz",
+                                                                      "sha256":  "b77a012a442b710e95e1f1013792384e037d189dc94826ac774fb5b1ef1a80b8",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  392
+                                                                  },
+                                                       "1.20.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.20.6.json.gz",
+                                                                      "sha256":  "021236436465cdcfb7e7ce82e41cb2a439157ac0849458a7227233763ac97506",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  396
+                                                                  },
+                                                       "1.21":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.json.gz",
+                                                                    "sha256":  "a77e4035f66af6639811a37cd4b8fe9ae8a07504905cb27f5737c36792cd1cda",
+                                                                    "manifestSchemaVersion":  1,
+                                                                    "eventCount":  395
+                                                                },
+                                                       "1.21.1":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.1.json.gz",
+                                                                      "sha256":  "14323bdee265e886469e4af654e184327ef1165623bdae55823e645b6b2574b0",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  398
+                                                                  },
+                                                       "1.21.3":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.3.json.gz",
+                                                                      "sha256":  "3f4fde5503f180a046e2eac137937df3a0e35dfdf91fa9b7d68e7c2099052325",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  400
+                                                                  },
+                                                       "1.21.4":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.4.json.gz",
+                                                                      "sha256":  "27b7e8bcbcf622d9f78056e6cad6416b05f83c5071949c4b99528c0a9d744d97",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  405
+                                                                  },
+                                                       "1.21.5":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.5.json.gz",
+                                                                      "sha256":  "4184fe3083fb9fab55473941d8f64f647453e5a10a30414f22ba9b5344189662",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  412
+                                                                  },
+                                                       "1.21.6":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.6.json.gz",
+                                                                      "sha256":  "6a88fd861ebd656e3b0b6fba3fc891a513c83e59ae4d85cf957916db4c7b4eb8",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  412
+                                                                  },
+                                                       "1.21.7":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.7.json.gz",
+                                                                      "sha256":  "cddee56fb5434aa7150ce6d232007c1e9d2ffcf004ec2707b28953d421e99035",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  417
+                                                                  },
+                                                       "1.21.8":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.8.json.gz",
+                                                                      "sha256":  "521e75cb541f987e870845a35337c5093316b0b6353ab3b4cc54f5e2017231ff",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  419
+                                                                  },
+                                                       "1.21.9":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.9.json.gz",
+                                                                      "sha256":  "a2cf02764504d513a966377370e1d6d45f213195d0afaf67c5b8213bd614f018",
+                                                                      "manifestSchemaVersion":  1,
+                                                                      "eventCount":  421
+                                                                  },
+                                                       "1.21.10":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.10.json.gz",
+                                                                       "sha256":  "a348e594bf641b493edbc8bdc878ea0e093cf5150b57672e95457722204ef3a8",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  421
+                                                                   },
+                                                       "1.21.11":  {
+                                                                       "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/spigot-1.21.11.json.gz",
+                                                                       "sha256":  "58cb4d93d17fbf57725f901a3e844a316d33b543a87cc7118d8b5fd3cf89f670",
+                                                                       "manifestSchemaVersion":  1,
+                                                                       "eventCount":  422
+                                                                   }
+                                                   }
+                                    }
+                  },
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
