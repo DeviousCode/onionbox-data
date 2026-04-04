@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:08:22Z",
+    "generated":  "2026-04-04T05:08:33Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -804,7 +804,20 @@
                                                                      "totalMethods":  28863,
                                                                      "totalFields":  13832,
                                                                      "totalEnumConstants":  16
-                                                                 }
+                                                                 },
+                                                      "1.21.10":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.10.json.gz",
+                                                                      "sha256":  "b252da564d29c82d4b8a34b1091237b0048e6b1495aea5264fd1318c14848aa4",
+                                                                      "extractedAt":  "2026-04-04T01:30:49.303Z",
+                                                                      "extractionMode":  null,
+                                                                      "sourceHash":  "0bf61fd66fbf162181cc4f6e13786f8a8d29c9188814215e7388db03d8775b7b",
+                                                                      "fabricSourceHash":  null,
+                                                                      "vanillaSourceHash":  "546da0ab4718686c2d95cca0a3c28318b4746a010e2aa6a809d12d3e1c22d123",
+                                                                      "totalTypes":  6117,
+                                                                      "totalMethods":  33050,
+                                                                      "totalFields":  16833,
+                                                                      "totalEnumConstants":  18
+                                                                  }
                                                   }
                                     }
                   },
@@ -1429,7 +1442,22 @@
                                                                 "scannedPublicTypes":  5462,
                                                                 "scannedPublicMethods":  28737,
                                                                 "refCount":  5231
-                                                            }
+                                                            },
+                                                 "1.21.10":  {
+                                                                 "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.21.10-refs.json.gz",
+                                                                 "sha256":  "669277596aef848465970d87d982051244e2aeff70f60779302694e01ceb9102",
+                                                                 "generatedAt":  "2026-04-04T00:52:02.548Z",
+                                                                 "contractSha256":  "c925f888778f706fc596c5f683f0927a44df8cd6e0cf5ed68b4c862efdd295a3",
+                                                                 "sourcesMode":  "decompiled-java",
+                                                                 "validationVerdict":  "PASS",
+                                                                 "jsonTotalTypes":  6117,
+                                                                 "jsonTotalMethods":  33050,
+                                                                 "jsonTotalFields":  16833,
+                                                                 "sourceFileCount":  7069,
+                                                                 "scannedPublicTypes":  6407,
+                                                                 "scannedPublicMethods":  31352,
+                                                                 "refCount":  6117
+                                                             }
                                              }
                                }
              }
