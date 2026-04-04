@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:12:43Z",
+    "generated":  "2026-04-04T05:12:58Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -1040,6 +1040,19 @@
                                                                         "totalMethods":  31569,
                                                                         "totalFields":  15808,
                                                                         "totalEnumConstants":  34
+                                                                    },
+                                                         "1.21.8":  {
+                                                                        "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.8.json.gz",
+                                                                        "sha256":  "08cefd9185356ebc0ffd36dcee927ea069735d07f91ca68631ed5c2c5447658a",
+                                                                        "extractedAt":  "2026-04-04T00:22:15.812Z",
+                                                                        "extractionMode":  null,
+                                                                        "sourceHash":  "67521895b57a16f31c577f41061ab3842183c3cd07595a5f08f6ebb062a2467f",
+                                                                        "fabricSourceHash":  null,
+                                                                        "vanillaSourceHash":  "3fc0d2cf3410ec788f9538d7366706a237107d272e413adcd12128fa80505855",
+                                                                        "totalTypes":  6028,
+                                                                        "totalMethods":  32440,
+                                                                        "totalFields":  16154,
+                                                                        "totalEnumConstants":  34
                                                                     }
                                                      }
                                     }
@@ -1937,6 +1950,21 @@
                                                                    "scannedPublicTypes":  6201,
                                                                    "scannedPublicMethods":  30874,
                                                                    "refCount":  5855
+                                                               },
+                                                    "1.21.8":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/neoforge-1.21.8-refs.json.gz",
+                                                                   "sha256":  "bd7a8bfbfc2f95af677f5772759adb873abd3ae451ba240df06a5784e2ef0a98",
+                                                                   "generatedAt":  "2026-04-04T00:23:22.484Z",
+                                                                   "contractSha256":  "77536d10fddd6cc2353fbf227ffbf41fb2ce6844fe1bc0a5a886f99eb60ecb96",
+                                                                   "sourcesMode":  "decompiled-java",
+                                                                   "validationVerdict":  "FAIL",
+                                                                   "jsonTotalTypes":  6028,
+                                                                   "jsonTotalMethods":  32440,
+                                                                   "jsonTotalFields":  16154,
+                                                                   "sourceFileCount":  7144,
+                                                                   "scannedPublicTypes":  6395,
+                                                                   "scannedPublicMethods":  31545,
+                                                                   "refCount":  6028
                                                                }
                                                 }
                                }
