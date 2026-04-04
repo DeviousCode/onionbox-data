@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:02:02Z",
+    "generated":  "2026-04-04T05:02:09Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -319,6 +319,19 @@
                                                                      "totalMethods":  24997,
                                                                      "totalFields":  11128,
                                                                      "totalEnumConstants":  613
+                                                                 },
+                                                      "1.20.4":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.4.json.gz",
+                                                                     "sha256":  "8773dad2e72212d3dbbd7fd664379c294202e5564d0fb1618ca7efb52f10dcfb",
+                                                                     "extractedAt":  "2026-04-04T02:16:24.374Z",
+                                                                     "extractionMode":  "legacy-onionbox-sources",
+                                                                     "sourceHash":  null,
+                                                                     "fabricSourceHash":  null,
+                                                                     "vanillaSourceHash":  null,
+                                                                     "totalTypes":  4349,
+                                                                     "totalMethods":  25920,
+                                                                     "totalFields":  11821,
+                                                                     "totalEnumConstants":  624
                                                                  }
                                                   }
                                     }
@@ -385,6 +398,21 @@
                                                                 "scannedPublicTypes":  3219,
                                                                 "scannedPublicMethods":  21872,
                                                                 "refCount":  4218
+                                                            },
+                                                 "1.20.4":  {
+                                                                "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.20.4-refs.json.gz",
+                                                                "sha256":  "20e69dc2ca47748b054f53d4849d636b8369b24d3d95b2ae1c7016ef38559b4c",
+                                                                "generatedAt":  "2026-04-04T02:19:10.647Z",
+                                                                "contractSha256":  "c4107a8aad315783559e34b4d02c5a35bba72bc06bec04f4f34fbc6eada0c7f0",
+                                                                "sourcesMode":  "decompiled-java",
+                                                                "validationVerdict":  "FAIL",
+                                                                "jsonTotalTypes":  3309,
+                                                                "jsonTotalMethods":  20312,
+                                                                "jsonTotalFields":  11474,
+                                                                "sourceFileCount":  3756,
+                                                                "scannedPublicTypes":  3310,
+                                                                "scannedPublicMethods":  22658,
+                                                                "refCount":  4349
                                                             }
                                              }
                                }
