@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T04:43:18Z",
+    "generated":  "2026-04-04T04:46:42Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -222,10 +222,6 @@
                                                                          "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21-a77e6d6a.sqlite.gz",
                                                                          "sha256":  "67fa20c293db6c212a4bc8ce14ab729850172991038fe83059c7b7db57563396"
                                                                      },
-                                                   "1.21.1-76211a68":  {
-                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.1-76211a68.sqlite.gz",
-                                                                           "sha256":  "ae2c27299235556a8a80338124b504c50fcb3d9a7cf38ed98a0ccff9b74de4f5"
-                                                                       },
                                                    "1.21.10-6257fe22":  {
                                                                             "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.10-6257fe22.sqlite.gz",
                                                                             "sha256":  "603fc6685a37c91a8e7a4472bc84833947b53a5c06110ae276e7e0f1ee2b2cd6"
@@ -261,6 +257,10 @@
                                                    "1.21.9-8f41f760":  {
                                                                            "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.9-8f41f760.sqlite.gz",
                                                                            "sha256":  "1bb698a550463a82371e8e7e8b3c006eb006d1c258d2daea4b979a4afbd88070"
+                                                                       },
+                                                   "1.21.1-76211a68":  {
+                                                                           "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft-sqlite/paper-1.21.1-76211a68.sqlite.gz",
+                                                                           "sha256":  "d05b90d1f52e9b0e6ba2639adca61d4ccf5e7d6ca5bec6ee4a48fa73d22bc076"
                                                                        }
                                                }
                                  }
