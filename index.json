@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:04:00Z",
+    "generated":  "2026-04-04T05:04:08Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -477,6 +477,19 @@
                                                                       "totalMethods":  23633,
                                                                       "totalFields":  11378,
                                                                       "totalEnumConstants":  685
+                                                                  },
+                                                       "1.20.2":  {
+                                                                      "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.2.json.gz",
+                                                                      "sha256":  "8669fc79135f34b11ea3f940f2ff76d0120fec7867d0b011d32409bb0f0d4f83",
+                                                                      "extractedAt":  "2026-04-03T23:37:09.438Z",
+                                                                      "extractionMode":  "legacy-onionbox-sources",
+                                                                      "sourceHash":  null,
+                                                                      "fabricSourceHash":  "50e38f78f438e542471095b0db93688d3227e7ac90ee93a3cce366f7fcf24166",
+                                                                      "vanillaSourceHash":  "50e38f78f438e542471095b0db93688d3227e7ac90ee93a3cce366f7fcf24166",
+                                                                      "totalTypes":  4451,
+                                                                      "totalMethods":  23835,
+                                                                      "totalFields":  11741,
+                                                                      "totalEnumConstants":  718
                                                                   }
                                                    }
                                     }
@@ -725,6 +738,21 @@
                                                                  "scannedPublicTypes":  4364,
                                                                  "scannedPublicMethods":  24849,
                                                                  "refCount":  4353
+                                                             },
+                                                  "1.20.2":  {
+                                                                 "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.2-refs.json.gz",
+                                                                 "sha256":  "6ba4d87db5343793431192e08d2f5d8d200dff3dff55b55f821d7df0f18b45ac",
+                                                                 "generatedAt":  "2026-04-03T23:37:58.978Z",
+                                                                 "contractSha256":  "cd39b788f81cd31655e451a17805b075ff6eba9773ba4494df595e7f1d3f9b8d",
+                                                                 "sourcesMode":  "decompiled-java",
+                                                                 "validationVerdict":  "PASS",
+                                                                 "jsonTotalTypes":  4451,
+                                                                 "jsonTotalMethods":  23835,
+                                                                 "jsonTotalFields":  0,
+                                                                 "sourceFileCount":  4904,
+                                                                 "scannedPublicTypes":  4464,
+                                                                 "scannedPublicMethods":  24916,
+                                                                 "refCount":  4453
                                                              }
                                               }
                                }
