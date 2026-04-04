@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:03:25Z",
+    "generated":  "2026-04-04T05:03:51Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -450,7 +450,22 @@
                                                                      "totalFields":  24954,
                                                                      "totalEnumConstants":  2817
                                                                  }
-                                                  }
+                                                  },
+                                        "fabric":  {
+                                                       "1.20":  {
+                                                                    "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20.json.gz",
+                                                                    "sha256":  "a60ad71a7ca2423b8c71788598657c8bb250aab9b6ee02464ddcf106a58ac68c",
+                                                                    "extractedAt":  "2026-04-03T23:42:46.126Z",
+                                                                    "extractionMode":  "legacy-onionbox-sources",
+                                                                    "sourceHash":  null,
+                                                                    "fabricSourceHash":  "71291f5a9802766c25a669882b0c97c7bd07609d08f5ba94528acd0669c9a2b6",
+                                                                    "vanillaSourceHash":  "71291f5a9802766c25a669882b0c97c7bd07609d08f5ba94528acd0669c9a2b6",
+                                                                    "totalTypes":  4351,
+                                                                    "totalMethods":  23634,
+                                                                    "totalFields":  11378,
+                                                                    "totalEnumConstants":  685
+                                                                }
+                                                   }
                                     }
                   },
     "refs":  {
@@ -666,7 +681,24 @@
                                                                 "scannedPublicMethods":  24167,
                                                                 "refCount":  5581
                                                             }
-                                             }
+                                             },
+                                   "fabric":  {
+                                                  "1.20":  {
+                                                               "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/fabric-1.20-refs.json.gz",
+                                                               "sha256":  "77b0be7ad267921a0e4054bfd164007d0c306cb32e321f2062c7640bcfa98515",
+                                                               "generatedAt":  "2026-04-03T23:43:26.607Z",
+                                                               "contractSha256":  "cef3b257d2cee3115ccadcc411f5b5f93e654bed8f119caeb75c99dfd782f423",
+                                                               "sourcesMode":  "decompiled-java",
+                                                               "validationVerdict":  "PASS",
+                                                               "jsonTotalTypes":  4351,
+                                                               "jsonTotalMethods":  23634,
+                                                               "jsonTotalFields":  0,
+                                                               "sourceFileCount":  4786,
+                                                               "scannedPublicTypes":  4364,
+                                                               "scannedPublicMethods":  24850,
+                                                               "refCount":  4353
+                                                           }
+                                              }
                                }
              }
 }
