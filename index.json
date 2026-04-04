@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:03:16Z",
+    "generated":  "2026-04-04T05:03:25Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -436,6 +436,19 @@
                                                                      "totalMethods":  32880,
                                                                      "totalFields":  24954,
                                                                      "totalEnumConstants":  2817
+                                                                 },
+                                                      "1.21.8":  {
+                                                                     "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.8.json.gz",
+                                                                     "sha256":  "7f4d53f470a7a63921aa8d3c90f63528eadb36dff7ba02fc80350d126a6f221f",
+                                                                     "extractedAt":  "2026-04-04T02:03:22.208Z",
+                                                                     "extractionMode":  null,
+                                                                     "sourceHash":  "f9ecfe790b21408eb0c108bc27daab63b104dbb5eb644776f4ca5f270c19050d",
+                                                                     "fabricSourceHash":  null,
+                                                                     "vanillaSourceHash":  "6adb7d6b2b128008c736f7f4ab62e77f1b00633015245d1fbee7189c747c52ea",
+                                                                     "totalTypes":  5581,
+                                                                     "totalMethods":  32930,
+                                                                     "totalFields":  24954,
+                                                                     "totalEnumConstants":  2817
                                                                  }
                                                   }
                                     }
@@ -637,6 +650,21 @@
                                                                 "scannedPublicTypes":  3892,
                                                                 "scannedPublicMethods":  24164,
                                                                 "refCount":  5571
+                                                            },
+                                                 "1.21.8":  {
+                                                                "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/paper-1.21.8-refs.json.gz",
+                                                                "sha256":  "d4300e8205729bdbd05a177f184c049d990a70d57ee4bd4d7bda10944fd4b3c3",
+                                                                "generatedAt":  "2026-04-04T02:09:59.403Z",
+                                                                "contractSha256":  "45361a6c0c1eef0e8aa7ae7eb28442bf6ab6fcf48daea7ce494476958296d5a3",
+                                                                "sourcesMode":  "decompiled-java",
+                                                                "validationVerdict":  "FAIL",
+                                                                "jsonTotalTypes":  3891,
+                                                                "jsonTotalMethods":  22692,
+                                                                "jsonTotalFields":  13344,
+                                                                "sourceFileCount":  4361,
+                                                                "scannedPublicTypes":  3892,
+                                                                "scannedPublicMethods":  24167,
+                                                                "refCount":  5581
                                                             }
                                              }
                                }
