@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generated":  "2026-04-04T05:06:52Z",
+    "generated":  "2026-04-04T05:07:13Z",
     "sqlite":  {
                    "minecraft":  {
                                      "fabric":  {
@@ -699,7 +699,22 @@
                                                                       "totalFields":  17041,
                                                                       "totalEnumConstants":  81
                                                                   }
-                                                   }
+                                                   },
+                                        "forge":  {
+                                                      "1.20":  {
+                                                                   "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20.json.gz",
+                                                                   "sha256":  "3f9dbbb11a81d4ebc1abb0a6d1750df8922b64a3dee6423d8c28efeea9d73002",
+                                                                   "extractedAt":  "2026-04-04T01:20:25.466Z",
+                                                                   "extractionMode":  "legacy-onionbox-sources",
+                                                                   "sourceHash":  null,
+                                                                   "fabricSourceHash":  null,
+                                                                   "vanillaSourceHash":  "dc31349b3dc35d99367b3b1bebcf79f1b4053d378b85761cccc18e018e63053e",
+                                                                   "totalTypes":  4965,
+                                                                   "totalMethods":  26750,
+                                                                   "totalFields":  11663,
+                                                                   "totalEnumConstants":  732
+                                                               }
+                                                  }
                                     }
                   },
     "refs":  {
@@ -1202,7 +1217,24 @@
                                                                  "scannedPublicMethods":  27851,
                                                                  "refCount":  6127
                                                              }
-                                              }
+                                              },
+                                   "forge":  {
+                                                 "1.20":  {
+                                                              "url":  "https://raw.githubusercontent.com/DeviousCode/onionbox-data/main/manifests/minecraft/forge-1.20-refs.json.gz",
+                                                              "sha256":  "3c0255074d5f1614f6dfa8d4eaa35aae7770c558e2f2954ba07fe145dfd369aa",
+                                                              "generatedAt":  "2026-04-04T01:21:54.246Z",
+                                                              "contractSha256":  "e6597e52ea1182a953309bef44d0deef823a8504640b77f6455f049869c4f247",
+                                                              "sourcesMode":  "decompiled-java",
+                                                              "validationVerdict":  "FAIL",
+                                                              "jsonTotalTypes":  4965,
+                                                              "jsonTotalMethods":  26750,
+                                                              "jsonTotalFields":  11663,
+                                                              "sourceFileCount":  5440,
+                                                              "scannedPublicTypes":  4990,
+                                                              "scannedPublicMethods":  28387,
+                                                              "refCount":  4965
+                                                          }
+                                             }
                                }
              }
 }
